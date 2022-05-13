@@ -1,0 +1,11 @@
+.cards {
+  display: flex;
+  justify-content: space-evenly;
+}
+.card-category {
+  box-shadow: 0 0 15px rgb(0 0 0 / 20%);
+}
+
+.div {
+  padding: 16px
+}
